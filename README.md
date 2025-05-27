@@ -46,6 +46,7 @@
 4.Column : Top brand & Gender
 
 # Dashboard
+<img width="848" alt="Fashion Sales Dashboard" src="https://github.com/user-attachments/assets/a3fd796d-db9a-464f-884c-6131dce9269b" />
 
 
 # Insight
